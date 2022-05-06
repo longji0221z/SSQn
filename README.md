@@ -1,0 +1,2 @@
+# SSQn
+For quick search
